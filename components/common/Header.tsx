@@ -15,6 +15,7 @@ const Header = () => {
             서비스 바로가기
           </NavItem>
           <NavItem href="/partner">파트너십</NavItem>
+          <NavItem href="/expert">전문가 모집</NavItem>
         </HeaderNav>
       </HeaderChild>
     </HeaderSection>
