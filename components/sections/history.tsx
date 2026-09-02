@@ -6,6 +6,11 @@ const history: YearGroup[] = [
   {
     year: "2026",
     entries: [
+      {
+        month: "08",
+        text: "한국전기안전공사 '26년 B2G 전략컨설팅 및 혁신프로젝트 지원사업' 선정",
+      },
+      { month: "07", text: "지역사회 및 기업 MOU 9건" },
       { month: "07", text: "지역사회 및 기업 MOU 9건" },
       { month: "07", text: "지식재산센터 IP 나래 특허지원사업 선정" },
       { month: "06", text: "경기창조경제혁신센터 ‘판교 창업존’ 입주" },
