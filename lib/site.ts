@@ -10,11 +10,11 @@ export const externalLinks = {
 } as const;
 
 export const navItems = [
-  { label: "홈", href: "/" },
-  { label: "회사소개", href: "/about" },
-  { label: "사업소개", href: "/business" },
-  { label: "뉴스룸", href: "/newsroom" },
-  { label: "문의", href: "/contact" },
+  { label: "홈", href: "/", outLink: false },
+  { label: "회사소개", href: "/about", outLink: false },
+  { label: "사업소개", href: "/business", outLink: false },
+  { label: "뉴스룸", href: "https://baraspace.tistory.com", outLink: true },
+  { label: "문의", href: "/contact", outLink: false },
 ] as const;
 
 /** 사업자 정보 — 푸터 표기용 */
