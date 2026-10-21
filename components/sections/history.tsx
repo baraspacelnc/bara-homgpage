@@ -7,6 +7,10 @@ const history: YearGroup[] = [
     year: "2026",
     entries: [
       {
+        month: "10",
+        text: "중소벤처기업부 '소셜벤처기업' 선정",
+      },
+      {
         month: "08",
         text: "한국전기안전공사 '26년 B2G 전략컨설팅 및 혁신프로젝트 지원사업' 선정",
       },
